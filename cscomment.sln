@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cscomment", "cscomment\cscomment.csproj", "{2D428FDD-C56D-47BB-9401-573045CD928F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D428FDD-C56D-47BB-9401-573045CD928F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D428FDD-C56D-47BB-9401-573045CD928F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D428FDD-C56D-47BB-9401-573045CD928F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D428FDD-C56D-47BB-9401-573045CD928F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698B55AF-3708-42D8-B813-1978869A7401}
+	EndGlobalSection
+EndGlobal
